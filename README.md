@@ -127,8 +127,6 @@ wbs-climate-change-rag-chatbot/
 ├── app/
 │   └── Gradio chatbot application
 │
-├── images/
-│   └── screenshots or presentation images
-│
 ├── requirements.txt
 └── README.md
+
