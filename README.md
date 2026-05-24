@@ -122,7 +122,7 @@ wbs-climate-change-rag-chatbot/
 │   └── climate-related source documents
 │
 ├── notebooks/
-│   └── Colab experiments and development notebooks
+│   └── Experiments and development notebooks
 │
 ├── app/
 │   └── Gradio chatbot application
